@@ -1,6 +1,6 @@
 
 DAY 1 - Jun 1 - 2 Leet Code Problems
-- Two Sum (py)
+- Two Sum (py) [!reading](https://leetcode.com/problems/two-sum/discuss/737092/Sum-MegaPost-Python3-Solution-with-a-detailed-explanation)
 - Reverse Integer (py
 
 DAY 2 - Jun 2 - 3 Leet Code Solution
