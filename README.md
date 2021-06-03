@@ -11,4 +11,4 @@ DAY 2 - Jun 2 - 3 Leet Code Solution
 DAY 3 - Jun 3 - 3 Leet Code Solution
 - Running Sum of 1d Array (py)
 - Defanging an IP Address(py,cpp)
-- [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) (py
+- [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) (py)
