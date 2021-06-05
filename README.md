@@ -22,5 +22,5 @@ DAY 4 - Jun 4 - 5 Leet Code Solutions
 - [1512](https://leetcode.com/problems/number-of-good-pairs/) (c++,py)
 
 DAY 5 - Jun 5 - 2 Leet Code Solutions
-- [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) (py)
-- [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) (py,c) c -> 0ms 
+- [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) (py,c) c-> 0 ms
+- [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) (py) 
