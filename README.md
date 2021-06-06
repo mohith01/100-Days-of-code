@@ -28,3 +28,4 @@ DAY 5 - Jun 5 - 2 Leet Code Solutions
 DAY 6 - Jun 6 - 1 Leet Code Solutions
 - [217](https://leetcode.com/problems/contains-duplicate/) (py)
 - [1773](https://leetcode.com/problems/count-items-matching-a-rule/) (py)
+- [1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) (py)
