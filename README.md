@@ -26,4 +26,5 @@ DAY 5 - Jun 5 - 2 Leet Code Solutions
 - [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) (py) 
 
 DAY 6 - Jun 6 - 1 Leet Code Solutions
-- [217](https://leetcode.com/problems/contains-duplicate/)
+- [217](https://leetcode.com/problems/contains-duplicate/) (py)
+- [1773](https://leetcode.com/problems/count-items-matching-a-rule/) (py)
