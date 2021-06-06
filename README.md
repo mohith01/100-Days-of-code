@@ -24,3 +24,6 @@ DAY 4 - Jun 4 - 5 Leet Code Solutions
 DAY 5 - Jun 5 - 2 Leet Code Solutions
 - [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) (py,c++) c++ -> 0 ms
 - [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) (py) 
+
+DAY 6 - Jun 6 - 1 Leet Code Solutions
+- [217](https://leetcode.com/problems/contains-duplicate/)
