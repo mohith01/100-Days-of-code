@@ -32,3 +32,8 @@ DAY 6 - Jun 6 - 3 Leet Code Solutions
 
 Day 7 - Jun 7 - 
 - [189](https://leetcode.com/problems/rotate-array/)(py)
+- [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) (py) !1
+- [136](https://leetcode.com/problems/single-number/) (py) [XOR]
+- [Create Intersection of Two Arrays II](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/674/)(py)
+- [PlusOne](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/559/)(py)
+- [283](https://leetcode.com/problems/move-zeroes/)
