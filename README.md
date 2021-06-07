@@ -30,7 +30,7 @@ DAY 6 - Jun 6 - 3 Leet Code Solutions
 - [1773](https://leetcode.com/problems/count-items-matching-a-rule/) (py)
 - [1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) (py)
 
-Day 7 - Jun 7 - 
+Day 7 - Jun 7 - 5 Solns (PY)
 - [189](https://leetcode.com/problems/rotate-array/)(py)
 - [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array) (py) !1
 - [136](https://leetcode.com/problems/single-number/) (py) [XOR]
