@@ -25,7 +25,10 @@ DAY 5 - Jun 5 - 2 Leet Code Solutions
 - [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) (py,c++) c++ -> 0 ms
 - [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) (py) 
 
-DAY 6 - Jun 6 - 1 Leet Code Solutions
+DAY 6 - Jun 6 - 3 Leet Code Solutions
 - [217](https://leetcode.com/problems/contains-duplicate/) (py)
 - [1773](https://leetcode.com/problems/count-items-matching-a-rule/) (py)
 - [1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) (py)
+
+Day 7 - Jun 7 - 
+- [189](https://leetcode.com/problems/rotate-array/)(py)
