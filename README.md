@@ -37,3 +37,9 @@ Day 7 - Jun 7 - 6 Solns (PY)
 - [Create Intersection of Two Arrays II](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/674/)(py)
 - [PlusOne](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/559/)(py)
 - [283](https://leetcode.com/problems/move-zeroes/)
+
+
+Day 8 - Jun 8 - 3 Solns (Py)
+- [1528](https://leetcode.com/problems/shuffle-string/)
+- [1486](https://leetcode.com/problems/xor-operation-in-an-array/)
+- [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
