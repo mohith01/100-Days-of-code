@@ -43,3 +43,8 @@ Day 8 - Jun 8 - 3 Solns (Py)
 - [1528](https://leetcode.com/problems/shuffle-string/)
 - [1486](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+
+Day - 9 - Jun 9 - 3 Solns
+- [1844](https://leetcode.com/problems/replace-all-digits-with-characters/) (py,c)
+- [709](https://leetcode.com/problems/to-lower-case/) (py,c)
+- [1678](https://leetcode.com/problems/goal-parser-interpretation/)(py)
