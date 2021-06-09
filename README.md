@@ -48,3 +48,15 @@ Day - 9 - Jun 9 - 3 Solns
 - [1844](https://leetcode.com/problems/replace-all-digits-with-characters/) (py,c)
 - [709](https://leetcode.com/problems/to-lower-case/) (py,c)
 - [1678](https://leetcode.com/problems/goal-parser-interpretation/)(py)
+<details>
+  <summary>709 cpp Explained</summary>
+  <p>
+    We are incrementing s[i] with the numeric value of s[i - 1].
+For example: s = "a2"
+we are replacing s[1] with s[0] + numeric value (s[i - 1]).
+To calculate numeric value of a character we just subtract ASCII value of '0'.
+'0' - '0' = 0(int) and '5' - '0' = 5(int)
+a + '2' - '0' = a + 2 = c ('a' ASCII value is 97 then 97 + 2 = 99 which is ASCII value of c and the conversion is done implicitly by the compiler)
+so result is "ac"
+  </p>
+  </details>
