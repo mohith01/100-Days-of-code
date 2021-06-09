@@ -60,3 +60,11 @@ a + '2' - '0' = a + 2 = c ('a' ASCII value is 97 then 97 + 2 = 99 which is ASCII
 so result is "ac"
   </p>
   </details>
+
+
+<details>
+  <summary>To Do Paranthesis problems </summary>
+  <p> 
+    [Paranthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/discuss/888949/JavaC%2B%2BPython-Parentheses-Problem-Foundation)
+  </p>
+  </details>
