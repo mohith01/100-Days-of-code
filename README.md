@@ -64,7 +64,10 @@ so result is "ac"
 
 <details>
   <summary>To Do Paranthesis problems </summary>
-  <p> 
+  
+  [Paranthesis](r'https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/discuss/888949/JavaC%2B%2BPython-Parentheses-Problem-Foundation\')
     [Paranthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/discuss/888949/JavaC%2B%2BPython-Parentheses-Problem-Foundation)
-  </p>
+  
+
+ 
   </details>
