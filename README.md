@@ -71,3 +71,9 @@ so result is "ac"
 
  
   </details>
+  
+ Day - 10 -Jun 10 - 4 Solns
+ - [1859](https://leetcode.com/problems/sorting-the-sentence/)
+ - [1816](https://leetcode.com/problems/truncate-sentence/)
+ - [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/submissions/)
+ - [28](https://leetcode.com/problems/implement-strstr/)
