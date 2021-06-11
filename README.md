@@ -77,3 +77,8 @@ so result is "ac"
  - [1816](https://leetcode.com/problems/truncate-sentence/)
  - [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/submissions/) !(py)
  - [28](https://leetcode.com/problems/implement-strstr/)
+
+
+Day - 11 - Jun 11 -  1 soln
+- [1748] (https://leetcode.com/problems/sum-of-unique-elements/)
+
