@@ -80,5 +80,10 @@ so result is "ac"
 
 
 Day - 11 - Jun 11 -  1 soln
-- [1748] (https://leetcode.com/problems/sum-of-unique-elements/)
+- [1748](https://leetcode.com/problems/sum-of-unique-elements/)
+
+Day 12 - Jun 12 - 3 Soln
+- [1688](https://leetcode.com/problems/count-of-matches-in-tournament/)
+- [345](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+- [125](https://leetcode.com/problems/valid-palindrome/)
 
