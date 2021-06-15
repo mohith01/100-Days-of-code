@@ -87,3 +87,5 @@ Day 12 - Jun 12 - 3 Soln
 - [345](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 - [125](https://leetcode.com/problems/valid-palindrome/)
 
+Day 13 - Jun 14 - 1 Soln
+- [682](https://leetcode.com/problems/baseball-game/)
