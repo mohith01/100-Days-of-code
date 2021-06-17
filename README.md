@@ -99,4 +99,7 @@ Day 15 - 3 solns
 - [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 - [1534](https://leetcode.com/problems/count-good-triplets/)
 - [804](https://leetcode.com/problems/unique-morse-code-words/)
-- 
+
+Day 16 - 3 Solns
+- [1200](https://leetcode.com/problems/minimum-absolute-difference/)
+- [1550](https://leetcode.com/problems/three-consecutive-odds/)
