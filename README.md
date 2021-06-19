@@ -95,15 +95,22 @@ Day 14- Jun 15 - 3 solns
 - [509](https://leetcode.com/problems/fibonacci-number/)
 - [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) !dt
 
-Day 15 - 3 solns
+Day 15 - 3 solns - Jun 16
 - [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 - [1534](https://leetcode.com/problems/count-good-triplets/)
 - [804](https://leetcode.com/problems/unique-morse-code-words/)
 
-Day 16 - 3 Solns
+Day 16 - 3 Solns - Jun 17
 - [1200](https://leetcode.com/problems/minimum-absolute-difference/)
 - [1550](https://leetcode.com/problems/three-consecutive-odds/)
 
-Day 17- 1 Solns
-- [1550](https://leetcode.com/problems/three-consecutive-odds/)
-- 
+Day 17- 3 Solns -Jun 18(py)
+- [1768](https://leetcode.com/problems/merge-strings-alternately/)
+- [657](https://leetcode.com/problems/robot-return-to-origin/)
+- [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)
+
+Day 18 - 4 solns (py,c) in 2 hrs(with book revised)
+- [1313](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+- [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+- [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+- [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
