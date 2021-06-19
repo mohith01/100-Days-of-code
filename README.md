@@ -103,3 +103,7 @@ Day 15 - 3 solns
 Day 16 - 3 Solns
 - [1200](https://leetcode.com/problems/minimum-absolute-difference/)
 - [1550](https://leetcode.com/problems/three-consecutive-odds/)
+
+Day 17- 1 Solns
+- [1550](https://leetcode.com/problems/three-consecutive-odds/)
+- 
