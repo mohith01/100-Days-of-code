@@ -114,3 +114,9 @@ Day 18 - 4 solns (py,c) in 2 hrs(with book revised)
 - [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+
+Day 19 - 4 Solns
+- [414](https://leetcode.com/problems/third-maximum-number/submissions/)
+- [595](https://leetcode.com/problems/big-countries/) [sql]
+- [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/)
+- [1812](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
