@@ -122,7 +122,7 @@ Day 19 - 4 Solns 20 Jun
 - [1812](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
 
 Day -20 - Jun 23
-- [1720] (https://leetcode.com/problems/decode-xored-array/)
+- [1720](https://leetcode.com/problems/decode-xored-array/)
 - [1732](https://leetcode.com/problems/find-the-highest-altitude/)
 - [627](https://leetcode.com/problems/swap-salary/)
 - [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
