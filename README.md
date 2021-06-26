@@ -115,8 +115,24 @@ Day 18 - 4 solns (py,c) in 2 hrs(with book revised)
 - [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 
-Day 19 - 4 Solns
+Day 19 - 4 Solns 20 Jun
 - [414](https://leetcode.com/problems/third-maximum-number/submissions/)
 - [595](https://leetcode.com/problems/big-countries/) [sql]
 - [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/)
 - [1812](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
+
+Day -20 - Jun 23
+- [1720] (https://leetcode.com/problems/decode-xored-array/)
+- [1732](https://leetcode.com/problems/find-the-highest-altitude/)
+- [627](https://leetcode.com/problems/swap-salary/)
+- [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
+- [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+
+Day - 21 -Jun 24
+-  [349](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+- [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+
+Day - 22 - Jun 25
+- [35](https://leetcode.com/problems/search-insert-position/)
+- [374](https://leetcode.com/problems/guess-number-higher-or-lower/)
